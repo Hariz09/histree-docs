@@ -4,32 +4,29 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'Sederhana dan Intuitif',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Interface yang mudah dipahami memungkinkan Anda membuat dan menjelajahi pohon keluarga dengan mudah, tanpa perlu keahlian teknis khusus.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Keamanan Data Keluarga Anda Terjaga',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Data dan informasi pribadi keluarga Anda dilindungi dengan sistem keamanan berlapis dan enkripsi tingkat terpercaya.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Terhubung dengan Keluarga',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Perkuat ikatan keluarga dengan berbagi cerita, foto kenangan, dan tetap terhubung dengan saudara di mana pun mereka berada.
       </>
     ),
   },
