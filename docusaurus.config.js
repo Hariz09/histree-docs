@@ -37,8 +37,8 @@ const config = {
   // useful metadata like html lang. For example, if your site is Chinese, you
   // may want to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'id',
-    locales: ['id'],
+    defaultLocale: 'en',
+    locales: ['en'],
   },
 
   presets: [
@@ -103,30 +103,7 @@ const config = {
       },
       footer: {
     style: 'dark',
-    links: [
-      {
-        title: 'Dokumentasi',
-        items: [
-          {
-            label: 'Memulai',
-            to: '/docs/pengenalan/memulai',
-          },
-          {
-            label: 'Panduan Pengguna',
-            to: '/docs/panduan-pengguna',
-          },
-        ],
-      },
-      {
-        title: 'Komunitas',
-        items: [
-          {
-            label: 'Website',
-            href: 'https://histree.id',
-          },
-        ],
-      },
-        ],
+    links: [],
         copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
       },
       prism: {
