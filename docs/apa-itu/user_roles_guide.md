@@ -6,7 +6,7 @@
 
 ## 🎭 Dua Peran Utama dalam Keluarga Digital
 
-HisTree membagi pengguna menjadi **dua role utama** yang ditentukan saat pembuatan [**Token Registrasi**](/docs/apa-itu/token-registrasi.md). Seperti dalam keluarga sungguhan, setiap peran memiliki fungsi dan tanggung jawab yang berbeda.
+HisTree membagi pengguna menjadi **dua role utama** yang ditentukan saat pembuatan [**Token Registrasi**](/docs/apa-itu/token_registration_guide.md). Seperti dalam keluarga sungguhan, setiap peran memiliki fungsi dan tanggung jawab yang berbeda.
 
 ![Role Pengunjung](./img/role/role.png)
 
