@@ -11,7 +11,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'HisTree',
-  tagline: 'Dokum',
+  tagline: 'Platform sederhana dan aman untuk membangun, menjelajahi, dan tetap terhubung dengan pohon keluarga Anda',
   favicon: 'img/favicon_histree.png',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
@@ -95,8 +95,8 @@ const config = {
           },
           // {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/Hariz09/histree-docs',
-            label: 'GitHub',
+            href: 'https://abdul-muthalib.histree.id/',
+            label: 'HisTree',
             position: 'right',
           },
         ],

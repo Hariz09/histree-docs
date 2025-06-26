@@ -1,141 +1,139 @@
-# 🌳 Panduan Lengkap Membuat Akun Histree
+---
+sidebar_position: 1
+---
 
-*Bergabunglah dengan keluarga besar digital! Mari mulai perjalanan menelusuri sejarah keluarga Anda.*
+# 🪪 Membuat Akun Histree
+*Mulai perjalanan menelusuri jejak sejarah leluhur dengan bergabung dalam platform digital keluarga.*
 
 ---
 
-## 🚪 Langkah 1: Buka Pintu Gerbang Digital
+## 🚪 Langkah 1: Akses Portal Utama
+Buka **[abdul-muthalib.histree.id](https://abdul-muthalib.histree.id/)** melalui browser pilihan Anda. Halaman beranda akan menampilkan interface login sebagai akses masuk ke dunia silsilah digital.
 
-Kunjungi **[abdul-muthalib.histree.id](https://abdul-muthalib.histree.id/)** di browser favorit Anda. Halaman login akan menyambut Anda sebagai "gerbang" menuju dunia pohon keluarga digital yang menakjubkan.
+![Login Page](./img/membuat-akun/login_page.png)
 
-![Login Page](@site/static/img/histree/login_page.png)
-
-> 🌟 **Tahukah Anda?** Setiap keluarga memiliki cerita unik yang layak diabadikan!
+> 🌟 **Insight:** Setiap generasi meninggalkan warisan cerita yang berharga untuk dikenang.
 
 ---
 
-## 👥 Langkah 2: Temukan Tombol "Daftar Disini"
-
-Di bagian bawah halaman login, cari tulisan **"Daftar Disini"** - ini adalah jembatan menuju keanggotaan keluarga digital Anda.
+## 👥 Langkah 2: Pilih Opsi Registrasi
+Pada bagian bawah halaman, temukan link **"Daftar Disini"** untuk mengakses formulir pendaftaran anggota baru.
 
 <div style={{textAlign: 'center', margin: '20px 0'}}>
   
-  ![Login Page Footer](@site/static/img/histree/login_page_footer.png)
+  ![Login Page Footer](./img/membuat-akun/login_page_footer.png)
   
-  *Klik di sini untuk memulai petualangan! 🎯*
+  *Gateway menuju keanggotaan platform! 🎯*
 </div>
 
 ---
 
-## 📝 Langkah 3: Isi Formulir Pendaftaran dengan Lengkap
+## 📝 Langkah 3: Lengkapi Data Registrasi
+Halaman pendaftaran akan menampilkan form yang perlu diisi dengan informasi akurat untuk membuat profil Anda.
 
-Sekarang Anda berada di "ruang pendaftaran" yang akan menjadi kunci akses ke memori keluarga.
+![Register Page](./img/membuat-akun/register_page.png)
 
-![Register Page](@site/static/img/histree/register_page.png)
+### 🎫 Informasi yang Diperlukan
 
-### 🎫 Data Penting yang Perlu Anda Siapkan
-
-| 📋 **Field** | 💡 **Penjelasan** | ⚙️ **Aturan** | 💭 **Contoh** |
-|--------------|-------------------|----------------|---------------|
-| **🎟️ Token Registrasi** | Kode rahasia keluarga untuk menjaga privasi | Wajib diisi - minta ke admin keluarga | `KELUARGA2024` |
-| **📧 Email** | Alamat email aktif untuk komunikasi | Harus email yang bisa diakses | `ayah.bahagia@gmail.com` |
-| **👤 Username** | Nama panggilan unik di sistem | Huruf saja, max 12 karakter, tanpa spasi | `ayahbahagia` |  
-| **🔐 Password** | Kunci keamanan akun Anda | Min 8 karakter, campuran huruf & angka | `KeluargaKu2024!` |
+| 📋 **Field** | 💡 **Deskripsi** | ⚙️ **Ketentuan** | 💭 **Contoh** |
+|--------------|------------------|-------------------|---------------|
+| **🎟️ Token Registrasi** | Kunci akses eksklusif dari administrator | Wajib - hubungi pengelola | `HERITAGE2024` |
+| **📧 Email** | Alamat surel aktif untuk verifikasi | Format valid & dapat diakses | `budi.santoso@gmail.com` |
+| **👤 Username** | Identitas unik dalam sistem | Alfabet, maksimal 12 karakter | `budisantoso` |  
+| **🔐 Password** | Sandi keamanan pribadi | Minimal 8 karakter kombinasi | `Silsilah@2024` |
 
 ---
 
-## 🛡️ Tips Keamanan Super Penting
+## 🛡️ Panduan Keamanan Sandi
 
-:::tip 🔒 Password yang Aman itu Seperti Rumah
-- **Kombinasi lengkap**: Huruf besar, kecil, angka, dan simbol
-- **Hindari yang mudah ditebak**: Tanggal lahir, nama keluarga
-- **Simpan di tempat aman**: Tulis di buku khusus atau password manager
-- **Contoh bagus**: `Keluarga@Bahagia123` ✅
-- **Contoh buruk**: `12345678` atau `password` ❌
+:::tip 🔒 Membuat Password Kuat
+- **Gabungan lengkap**: Huruf kapital, huruf kecil, angka, simbol khusus
+- **Hindari informasi pribadi**: Tanggal lahir, nama panggilan umum
+- **Penyimpanan aman**: Catat di buku khusus atau aplikasi password manager
+- **Rekomendasi**: `Warisan#Keluarga99` ✅
+- **Hindari**: `123456789` atau `qwerty` ❌
 :::
 
 ---
 
-## 🎫 Tentang Token Registrasi - Kunci Eksklusif Keluarga
+## 🎫 Memahami Token Registrasi
 
-:::info 🔑 Apa itu Token Registrasi?
+:::info 🔑 Fungsi Token Akses
+**Token Registrasi** berfungsi sebagai kunci digital yang memastikan eksklusivitas anggota dalam pohon silsilah. Fitur ini menjaga privasi dan integritas data genealogi.
 
-**Token Registrasi** adalah seperti "kunci keluarga" digital yang memastikan hanya anggota keluarga yang bisa bergabung. Ini menjaga privasi dan keamanan pohon keluarga Anda.
+### 🤝 Cara Memperoleh Token:
+- **Administrator Platform**: Konsultasi dengan pengelola website
+- **Anggota Terdaftar**: Tanyakan kepada saudara yang sudah bergabung
+- **Kontak Langsung**: Komunikasi dengan tim support histree.id
 
-### 🤝 Cara Mendapatkan Token:
-- **Dari Admin Keluarga**: Minta ke yang mengelola website keluarga
-- **Dari Saudara**: Tanya anggota keluarga yang sudah terdaftar  
-- **Kontak Langsung**: Hubungi pengelola histree.id keluarga Anda
+Panduan membuat token (Untuk Editor): [🎫 Token Registrasi - Kunci Eksklusif Keluarga](/docs/apa-itu/token_registrasi)
 
-*Token ini seperti undangan khusus ke reuni keluarga digital! 🎉*
+*Token ini merupakan undangan khusus untuk bergabung dalam komunitas heritage digital! 🎉*
 :::
 
 ---
 
-## 🚀 Langkah 4: Kirim Formulir Pendaftaran
+## 🚀 Langkah 4: Submit Formulir
+Setelah seluruh field terisi dengan benar, tekan tombol **"Buat Akun"** untuk memproses registrasi. Sistem akan mengolah data dalam beberapa detik.
 
-Setelah semua data terisi dengan benar, klik tombol **"Buat Akun"** dengan penuh semangat! Sistem akan memproses informasi Anda dalam hitungan detik.
+![Register Success](./img/membuat-akun/register_success.png)
 
-![Register Success](@site/static/img/histree/register_success.png)
-
-> 🎯 **Berhasil!** Anda sudah selangkah lebih dekat dengan sejarah keluarga
-
----
-
-## 📧 Langkah 5: Aktivasi Melalui Email
-
-### 📬 Cek Kotak Masuk Email
-
-Sistem akan mengirim email khusus ke alamat yang Anda daftarkan. Email ini adalah "tiket emas" untuk mengaktifkan akun Anda.
-
-![Register Confirmation Email](@site/static/img/histree/register_email.png)
-
-### ✨ Klik Tombol Verifikasi
-
-Cari tombol **"Verifikasi Email"** dalam email dan klik. Anda akan langsung dibawa kembali ke website dengan akun yang sudah aktif!
+> 🎯 **Sukses!** Proses registrasi tahap pertama telah selesai
 
 ---
 
-## 🆘 Jika Email Tidak Muncul - Jangan Panik!
+## 📧 Langkah 5: Verifikasi Email
 
-:::warning 📧 Troubleshooting Email Verifikasi
+### 📬 Pemeriksaan Inbox
+Platform akan mengirimkan email konfirmasi ke alamat yang didaftarkan. Pesan ini berisi tautan aktivasi untuk mengaktifkan akun Anda.
 
-**Email belum masuk? Coba tips ini:**
+![Register Confirmation Email](./img/membuat-akun/register_email.png)
 
-1. **🔍 Periksa Folder Spam** - Email mungkin "nyasar" ke sini
-2. **⏱️ Tunggu Sebentar** - Kadang butuh 5-10 menit untuk sampai
-3. **🔄 Refresh Email** - Muat ulang kotak masuk Anda
-4. **✅ Cek Penulisan** - Pastikan email yang dimasukkan benar
-5. **📞 Minta Bantuan** - Hubungi editor keluarga jika masih bermasalah
+### ✨ Aktivasi Akun
+Klik tombol **"Verifikasi Email"** dalam pesan yang diterima. Browser akan mengarahkan Anda kembali ke website dengan status akun yang sudah aktif.
 
-*Ingat: Kesabaran adalah kunci! 😊*
+---
+
+## 🆘 Troubleshooting Email Verifikasi
+
+:::warning 📧 Solusi Masalah Email
+**Belum menerima email konfirmasi? Ikuti langkah berikut:**
+
+1. **🔍 Cek Folder Spam/Junk** - Email mungkin tersaring otomatis
+2. **⏱️ Beri Waktu** - Pengiriman bisa memakan waktu hingga 10 menit  
+3. **🔄 Refresh Mailbox** - Muat ulang kotak masuk email
+4. **✅ Validasi Data** - Pastikan alamat email yang diinput sudah tepat
+5. **📞 Hubungi Support** - Konsultasi dengan tim teknis jika masalah berlanjut
+
+*Catatan: Proses verifikasi memerlukan kesabaran! 😊*
 :::
 
 ---
 
-## 🎉 Selamat Datang di Keluarga Digital!
+## 🎉 Selamat Bergabung!
 
-**Akun Anda sudah siap digunakan!** 🥳
+**Akun Anda telah aktif dan siap digunakan!** 🥳
 
-Sekarang Anda adalah bagian resmi dari komunitas digital keluarga. Saatnya menjelajahi sejarah, menambah cerita baru, dan menghubungkan generasi dalam satu pohon keluarga yang indah.
+Anda kini resmi menjadi bagian dari ekosistem digital heritage keluarga. Waktunya mengeksplorasi fitur-fitur platform, menambahkan informasi genealogi, dan menghubungkan berbagai generasi dalam satu pohon silsilah komprehensif.
 
-### 🌟 Langkah Selanjutnya:
-- **Login** dengan username dan password yang sudah dibuat
-- **Eksplorasi** fitur-fitur menarik di dalam sistem
-- **Mulai** menambahkan informasi keluarga Anda
-- **Nikmati** perjalanan menelusuri sejarah keluarga
-
----
-
-*"Keluarga bukan hanya tentang darah, tapi tentang cinta yang mengikat kita bersama. Mari abadikan setiap momen berharga!" 💝*
+### 🌟 Aktivitas Selanjutnya:
+- **Masuk** menggunakan kredensial yang telah dibuat
+- **Jelajahi** berbagai menu dan fitur tersedia
+- **Tambahkan** data anggota dan relasi keluarga
+- **Dokumentasikan** cerita dan foto bersejarah
 
 ---
 
-## 📞 Butuh Bantuan?
+*"Genealogi bukan sekadar garis keturunan, melainkan jalinan kasih sayang yang menghubungkan masa lalu, kini, dan mendatang." 💝*
 
-Jika masih ada pertanyaan, jangan ragu untuk:
-- 🤝 Bertanya kepada anggota keluarga yang sudah terdaftar
-- 📧 Menghubungi editor keluarga
-- 💬 Konsultasi dengan pengelola histree keluarga Anda
+---
 
-**Ingat: Kita semua keluarga, dan keluarga selalu saling membantu! 🤗**
+## 🤔 Butuh Bantuan?
+
+Jika ada yang membingungkan dalam menjelajahi beranda:
+- 👥 Tanya anggota keluarga yang sudah mahir
+- 🔄 Coba eksplorasi bebas - tidak ada yang rusak!
+
+**Prinsip: Dalam keluarga, kita saling mendukung dan berbagi pengetahuan! 🤗**
+
+*Terakhir diperbarui pada: Jumat, 25 Juni 2025*

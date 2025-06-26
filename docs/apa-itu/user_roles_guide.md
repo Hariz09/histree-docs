@@ -1,155 +1,105 @@
-# 👥 Role User HisTree - Siapa Boleh Apa?
+---
+sidebar_position: 4
+---
 
-*Di dunia digital pohon keluarga, setiap anggota memiliki peran khusus. Mari kenali hak dan tanggung jawab masing-masing role!*
+# 🛡️ Role Pengguna HisTree
+
+*Dalam ekosistem digital pohon keluarga, setiap anggota memiliki peran yang disesuaikan dengan kebutuhan dan kemampuan masing-masing.*
 
 ---
 
-## 🎭 Dua Peran Utama dalam Keluarga Digital
+## 🎭 Struktur Role dalam HisTree
 
-HisTree membagi pengguna menjadi **dua role utama** yang ditentukan saat pembuatan [**Token Registrasi**](/docs/apa-itu/token_registration_guide.md). Seperti dalam keluarga sungguhan, setiap peran memiliki fungsi dan tanggung jawab yang berbeda.
+HisTree menerapkan sistem **dua tingkat akses** yang ditentukan saat pembuatan [**Token Registrasi**](/docs/apa-itu/token_registrasi.md).
 
-![Role Pengunjung](./img/role/role.png)
-
-> 💡 **Filosofi Role**: Seperti di rumah, ada yang bertugas mengatur dan ada yang menikmati. Keduanya sama pentingnya!
+![Role Structure](./img/role/role.png)
 
 ---
 
-## 👀 Pengunjung - Penikmat Cerita Keluarga
+## 👀 Pengunjung: Penikmat Warisan Keluarga
 
-### 🌟 **Siapa Pengunjung?**
-Pengunjung adalah anggota keluarga yang **fokus menikmati** dan **menjelajahi** sejarah keluarga tanpa perlu repot dengan urusan administratif.
+**Pengunjung** adalah anggota yang fokus pada eksplorasi dan apresiasi sejarah keluarga tanpa beban administratif.
 
-### 🎯 **Apa yang Bisa Dilakukan Pengunjung?**
-
-#### 👁️ **Akses Penuh untuk Melihat:**
-- **📸 Album Keluarga** - Melihat semua foto kenangan indah
-- **👨‍👩‍👧‍👦 Profil Anggota** - Informasi lengkap setiap anggota keluarga  
-- **🌳 Pohon Silsilah** - Menjelajahi garis keturunan keluarga
-
-#### 💬 **Memberikan Kontribusi Positif:**
-- **📝 Saran & Masukan** melalui halaman [**Feedback**](https://abdul-muthalib.histree.id/feedback)
-- **❤️ Dukungan Moral** untuk para editor
-
-### 🎨 **Keuntungan Menjadi Pengunjung:**
-- ✅ **Bebas Stress** - Tidak ada tanggung jawab editing
-- ✅ **Fokus Menikmati** - Bisa santai menjelajahi sejarah
-- ✅ **Tetap Berkontribusi** - Lewat feedback dan saran
-- ✅ **Akses Penuh** - Melihat semua konten keluarga
+### Akses & Privilese
+- **Visual Access**: Melihat seluruh album foto dan galeri keluarga
+- **Genealogi**: Navigasi lengkap pohon silsilah dan profil anggota
+- **Kontribusi**: Memberikan saran dan masukan melalui halaman [Saran & Masukan](https://abdul-muthalib.histree.id/feedback)
 
 ---
 
-## ✏️ Editor - Penjaga Sejarah Keluarga
+## ✏️ Editor: Kurator Data Keluarga
 
-### 🌟 **Siapa Editor?**
-Editor adalah **garda terdepan** dalam menjaga dan mengembangkan pohon keluarga digital. Mereka adalah orang-orang yang berdedikasi untuk **mengumpulkan, mengelola, dan melestarikan** data keluarga.
+**Editor** berperan sebagai pengelola aktif yang bertanggung jawab atas integritas dan pengembangan database keluarga.
 
-### 🛠️ **Kekuatan Super Editor:**
-
-#### 🎨 **1. Mengelola Visual Keluarga**
-- **📷 Upload & Edit Foto Profil** semua anggota keluarga
-- **🖼️ Mengatur Album** dan galeri keluarga
-- **✨ Mempercantik Tampilan** dengan foto-foto terbaik
-
-#### 🎟️ **2. Mengontrol Akses Keluarga**
-- **🔑 Membuat Token Registrasi** untuk anggota baru
-- **🛡️ Menjaga Keamanan** siapa yang bisa bergabung
-
-#### 📝 **3. Mengelola Data Keluarga**
-- **✏️ Edit Informasi** anggota keluarga
-- **🔄 Koreksi Data** yang kurang akurat
-
-#### 💬 **4. Mengelola Komunikasi**
-- **📧 Merespons Feedback** dari pengunjung
-- **💡 Mengimplementasikan Saran** yang membangun
-- **🤝 Memediasi Diskusi** keluarga
+### Kapabilitas Penuh
+- **Content Management**: Upload, edit, dan organisasi foto profil serta album
+- **Access Control**: Pembuatan dan distribusi token registrasi
+- **Data Governance**: Edit informasi anggota dan koreksi data
+- **Community Management**: Respons saran dan masukan dan moderasi komunikasi keluarga
 
 ---
 
-## ⚖️ Perbandingan Role
+## ⚖️ Matriks Perbandingan Akses
 
-| 🎯 **Aspek** | 👀 **Pengunjung** | ✏️ **Editor** |
-|--------------|-------------------|---------------|
-| **📖 Melihat Konten** | ✅ Semua konten | ✅ Semua konten |
-| **✏️ Edit Data** | ❌ Tidak bisa | ✅ Full akses |
-| **🎫 Buat Token** | ❌ Tidak bisa | ✅ Bisa membuat |
-| **📷 Upload Foto** | ❌ Tidak bisa | ✅ Semua foto |
-| **💬 Feedback** | ✅ Bisa memberikan | ✅ Bisa merespons |
-| **👥 Tambah Anggota** | ❌ Tidak bisa | ✅ Bisa menambah |
-| **🔧 Tanggung Jawab** | 📖 Menikmati | 🛠️ Mengelola |
-
+| Fitur | Pengunjung | Editor |
+|-------|------------|--------|
+| Melihat Konten | ✅ | ✅ |
+| Mengubah Data | ❌ | ✅ |
+| Membuat Token | ❌ | ✅ |
+| Upload Media | ❌ | ✅ |
+| Saran & Masukan | Submit | Manage |
 ---
 
-## ⚠️ Aturan Penting untuk Editor
+## ⚠️ Kebijakan Khusus untuk Editor
 
-:::warning 🚨 **PERHATIAN KHUSUS EDITOR!**
+:::warning **IMPORTANT NOTICE**
 
-**Fitur penghapusan anggota keluarga telah ditiadakan untuk sementara waktu.**
+**Fitur penghapusan anggota keluarga sementara dinonaktifkan.**
 
-### 🎯 **Mengapa Demikian?**
-- 🛡️ **Melindungi Data** - Mencegah penghapusan tidak sengaja
-- 📚 **Menjaga Sejarah** - Setiap anggota adalah bagian sejarah
-- 🔄 **Sistem Backup** - Sedang dalam pengembangan fitur restore
+**Alasan Teknis:**
+- Proteksi terhadap data loss yang tidak dapat dipulihkan
+- Preservasi integritas historis database keluarga
+- Pengembangan sistem backup dan restore yang sedang berlangsung
 
-### 💡 **Tips untuk Editor:**
-- ✅ **Berhati-hati** saat menambah anggota baru
-- ✅ **Double-check** data sebelum menyimpan
-- ✅ **Konfirmasi** dengan keluarga jika ragu
-- ❌ **Jangan membuat** anggota sembarangan
-
-*Ingat: Sekali ditambahkan, sulit untuk dihapus. Kehati-hatian adalah kunci!*
+**Best Practices:**
+- Verifikasi data sebelum melakukan input
+- Koordinasi dengan anggota keluarga lain sebelum menambah profil baru
+- Dokumentasi sumber informasi untuk akuntabilitas
 :::
 
 ---
 
-## 🤝 Bagaimana Menentukan Role yang Tepat?
+## 🎯 Kriteria Pemilihan Role
 
-### 👀 **Pilih PENGUNJUNG jika:**
-- 🎯 Ingin fokus menikmati sejarah keluarga
-- 😌 Tidak mau repot dengan tugas administratif  
-- 📱 Hanya ingin browsing dan melihat-lihat
-- 💬 Sesekali ingin memberikan saran
+### Memilih Pengunjung
+Ideal untuk anggota yang:
+- Prioritas pada konsumsi konten dibanding pengelolaan
+- Waktu terbatas untuk aktivitas maintenance
+- Preferensi pengalaman yang simple dan straightforward
 
-### ✏️ **Pilih EDITOR jika:**
-- 🔥 Semangat mengumpulkan data keluarga
-- 📚 Suka mengorganisir dan mengelola informasi
-- 🤝 Mau bertanggung jawab atas akurasi data
-- ⏰ Punya waktu untuk maintenance rutin
-
----
-
-## 🎯 Tips Sukses Berdasarkan Role
-
-### 👀 **Untuk Pengunjung:**
-- **🔄 Kunjungi Rutin** - Cek update terbaru dari editor
-- **💬 Aktif Feedback** - Berikan saran konstruktif
-- **❤️ Apresiasi Editor** - Hargai kerja keras mereka
-- **📢 Promosikan** - Ajak keluarga lain bergabung
-
-### ✏️ **Untuk Editor:**
-- **📋 Buat Checklist** - Agar tidak ada yang terlewat
-- **🤝 Koordinasi** - Dengan editor lain jika ada
-- **📖 Dokumentasi** - Catat sumber setiap informasi
-- **💬 Komunikasi** - Aktif merespons feedback
+### Memilih Editor
+Cocok untuk anggota yang:
+- Memiliki passion dalam genealogi dan preservasi sejarah
+- Siap mengalokasikan waktu
+- Comfortable dengan tanggung jawab data accuracy
 
 ---
 
-## 🎉 Kolaborasi yang Harmonis
+## 🤝 Model Kolaborasi
 
-**Pengunjung** dan **Editor** adalah tim yang saling melengkapi. Seperti dalam keluarga sungguhan:
+Ekosistem HisTree berfungsi optimal melalui sinergi antara kedua role:
 
-- **👀 Pengunjung** memberikan apresiasi dan motivasi
-- **✏️ Editor** bekerja keras menjaga sejarah
-- **🤝 Bersama-sama** menciptakan memori digital yang indah
-
-*"Dalam keluarga, setiap peran itu penting. Yang satu menikmati, yang satu mengurus. Keduanya membuat keluarga menjadi hangat dan lengkap." 💝*
+**Pengunjung** menyediakan perspektif user experience dan masukan berharga, sementara **Editor** memastikan kualitas data dan aksesibilitas konten. Dynamic ini menciptakan sustainable community di mana setiap kontribusi memiliki nilai.
 
 ---
 
-## 📞 Butuh Bantuan?
+## 📞 Support & Assistance
 
-Jika masih ada pertanyaan, jangan ragu untuk:
-- 🤝 Bertanya kepada anggota keluarga yang sudah terdaftar
-- 📧 Menghubungi editor keluarga
-- 💬 Konsultasi dengan pengelola histree keluarga Anda
+Untuk pertanyaan lebih lanjut:
+- Konsultasi dengan editor keluarga yang sudah aktif
+- Koordinasi melalui feedback system internal
+- Kontak pengelola platform untuk issue teknis
 
-**Ingat: Kita semua keluarga, dan keluarga selalu saling membantu! 🤗**
+*Setiap peran dalam HisTree memiliki value proposition unik yang berkontribusi pada visi besar pelestarian sejarah keluarga digital.*
+
+*Terakhir diperbarui pada: Rabu, 25 Juni 2025*

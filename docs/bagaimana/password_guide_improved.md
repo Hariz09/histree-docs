@@ -1,89 +1,90 @@
-# 🔐 Panduan Mudah Mengganti Password
+---
+sidebar_position: 2
+---
 
-*Jangan khawatir jika lupa password! Ikuti langkah sederhana ini untuk kembali mengakses pohon keluarga digital Anda.*
+# 🔐 Reset Password Histree
+*Akses ke pohon keluarga digital Anda hilang? Tenang, kami akan memandu Anda kembali!*
 
 ---
 
-## 🚪 Langkah 1: Mulai dari Halaman Masuk
+## 🚪 Akses Halaman Reset
 
-Buka **[abdul-muthalib.histree.id](https://abdul-muthalib.histree.id/)** di browser Anda. Halaman pertama yang muncul adalah "pintu masuk" ke dunia pohon keluarga digital Anda.
+Kunjungi **[abdul-muthalib.histree.id](https://abdul-muthalib.histree.id/)** dan perhatikan bagian login. Di sebelah kanan kolom password, terdapat link **"Lupa kata sandi?"** yang akan memulai proses pemulihan akun Anda.
 
-:::tip **Tips**
-Bookmark halaman ini agar mudah ditemukan lain waktu!
+:::tip **Bookmark Halaman Ini**
+Simpan URL ini untuk akses cepat di kemudian hari!
 :::
 
-![Login Page](@site/static/img/histree/login_page.png)
-
----
-
-## 🔍 Langkah 2: Temukan Tombol "Lupa Kata Sandi"
-
-Di sebelah kanan kolom password, ada tulisan **"Lupa kata sandi?"** yang siap membantu Anda. Klik tulisan ini untuk memulai proses pemulihan.
+![Login Page](./img/membuat-akun/login_page.png)
 
 <div style={{textAlign: 'center', margin: '20px 0'}}>
-  
   ![Tombol Lupa Password](./img/mengganti-password/tombol.png)
   
-  *Tombol penyelamat yang selalu ada untuk Anda! 🆘*
+  *Link pemulihan password tersedia 24/7 untuk Anda 🆘*
 </div>
 
 ---
 
-## ✍️ Langkah 3: Masukkan Email Anda
+## ✍️ Verifikasi Email
 
-Formulir sederhana akan muncul. Cukup ketik alamat email yang Anda gunakan saat mendaftar di Histree.
+Setelah mengklik link reset, formulir verifikasi akan tampil. Masukkan alamat email yang terdaftar dalam sistem Histree keluarga Anda.
 
 ![Form Email](./img/mengganti-password/page.png)
 
-:::warning **Penting**
-Pastikan email yang dimasukkan benar dan masih aktif!
+:::warning **Pastikan Email Aktif**
+Gunakan email yang masih dapat Anda akses untuk menerima instruksi reset!
 :::
+
 ---
 
-## 📧 Langkah 4: Buka Email dan Klik Tautan Ajaib
+## 📧 Konfirmasi via Email
 
-Cek kotak masuk email Anda (jangan lupa periksa folder spam juga!). Anda akan menerima email khusus seperti ini:
+Periksa inbox email Anda dalam beberapa menit. Email konfirmasi akan berisi tautan khusus untuk melanjutkan proses reset password.
 
 ![Email Reset Password](./img/mengganti-password/email.png)
 
-**Klik tautan di dalam email** untuk melanjutkan ke langkah terakhir.
+> **Pro tip:** Jika email tidak muncul di inbox, cek folder spam atau promotions.
 
 ---
 
-## 🔑 Langkah 5: Buat Password Baru yang Kuat
+## 🔑 Pembuatan Password Baru
 
-Selamat! Anda hampir selesai. Sekarang saatnya membuat password baru yang mudah diingat tapi sulit ditebak orang lain.
+Klik tautan dalam email untuk diarahkan ke formulir password baru. Inilah saatnya membuat kombinasi yang aman namun mudah diingat.
 
 ![Form Password Baru](./img/mengganti-password/form.png)
 
-### 💪 Tips Password yang Baik:
-- **Minimal 8 karakter** - semakin panjang semakin aman
-- **Kombinasi huruf besar dan kecil** - contoh: MyFamily2024
-- **Tambahkan angka atau simbol** - contoh: Keluarga@Ku123
-- **Hindari informasi pribadi** - seperti tanggal lahir atau nama lengkap
+### 💪 Kriteria Password Ideal:
+
+**Kekuatan:**
+- Minimum 8 karakter untuk keamanan dasar
+- Kombinasi huruf besar-kecil (contoh: KeluargaBesar)
+- Sertakan angka atau simbol (contoh: Silsilah2024!)
+
+**Hindari:**
+- Data personal seperti tanggal lahir
+- Nama lengkap atau alamat
+- Password yang terlalu umum
 
 ---
 
-## 🎉 Selesai! Selamat Menjelajahi Pohon Keluarga
+## 🎯 Login dengan Kredensial Baru
 
-Password baru Anda sudah siap digunakan! Sekarang Anda bisa kembali menjelajahi dan mengelola pohon keluarga digital dengan aman.
+Password berhasil diperbarui! Kembali ke halaman login dan gunakan email beserta password baru untuk mengakses dashboard pohon keluarga Anda.
 
-### 🛡️ Untuk Keamanan Tambahan:
-- **Catat password** di tempat yang aman
-- **Jangan bagikan** dengan sembarangan orang
-- **Ganti secara berkala** untuk keamanan maksimal
+### 🛡️ Praktik Keamanan Terbaik:
 
----
-
-*"Keluarga adalah harta yang paling berharga, begitu juga dengan akses ke memori keluarga kita. Jagalah dengan baik!" 💝*
+- **Simpan di password manager** atau tempat aman lainnya
+- **Batasi akses** hanya untuk anggota keluarga tepercaya  
+- **Update berkala** setiap 3-6 bulan sekali
 
 ---
 
-## 📞 Butuh Bantuan?
+## 🤔 Butuh Bantuan?
 
-Jika masih ada pertanyaan, jangan ragu untuk:
-- 🤝 Bertanya kepada anggota keluarga yang sudah terdaftar
-- 📧 Menghubungi editor keluarga
-- 💬 Konsultasi dengan pengelola histree keluarga Anda
+Jika ada yang membingungkan dalam menjelajahi beranda:
+- 👥 Tanya anggota keluarga yang sudah mahir
+- 🔄 Coba eksplorasi bebas - tidak ada yang rusak!
 
-**Ingat: Kita semua keluarga, dan keluarga selalu saling membantu! 🤗**
+***"Menjaga akses ke warisan keluarga digital sama pentingnya dengan merawat foto keluarga di album fisik."*** 💝
+
+*Terakhir diperbarui pada: Jumat, 25 Juni 2025*
