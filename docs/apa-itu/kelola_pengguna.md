@@ -164,7 +164,7 @@ Ketika data anggota tidak tampil, lakukan langkah berikut: klik "Retry" untuk re
 - **Autentikasi Ganda**: Verifikasi identitas sebelum menerbitkan token
 - **Dokumentasi Komprehensif**: Catat setiap distribusi untuk audit trail
 - **Monitoring Proaktif**: Pantau perilaku pengguna baru secara berkala
-- **Komunikasi Transparan**: Laporkan anomali kepada admin tanpa penundaan
+- **Komunikasi Transparan**: Laporkan anomali kepada editor tanpa penundaan
 
 ### ❌ Zona Larangan:
 - **Distribusi Massal**: Hindari pembagian token tanpa verifikasi
@@ -202,4 +202,4 @@ Jika ada yang membingungkan dalam mengelola pengguna:
 
 **Ingat: Setiap keluarga unik, begitu juga cara mengeksplorasi pohon keluarga digitalnya! 🤗**
 
-*Terakhir diperbarui pada: Rabu, 25 Juni 2025*
+*Terakhir diperbarui pada: Kamis, 26 Juni 2025*

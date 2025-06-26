@@ -98,9 +98,9 @@ Kontak langsung dengan pengelola utama pohon keluarga via telepon atau email.
 4. **📱 Gangguan Teknis** - Server maintenance
 
 **Solusi:**
-- 🔄 Request token baru dari admin
+- 🔄 Request token baru dari editor
 - ✅ Copy-paste untuk akurasi
-- 📞 Eskalasi ke admin jika masalah persisten
+- 📞 Eskalasi ke editor jika masalah persisten
 
 ---
 
@@ -133,4 +133,4 @@ Butuh bantuan dengan token registrasi atau proses pendaftaran?
 
 **Keluarga selalu siap membantu! 🤗**
 
-*Terakhir diperbarui pada: Rabu, 25 Juni 2025*
+*Terakhir diperbarui pada: Kamis, 26 Juni 2025*

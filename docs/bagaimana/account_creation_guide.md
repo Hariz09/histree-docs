@@ -37,7 +37,7 @@ Halaman pendaftaran akan menampilkan form yang perlu diisi dengan informasi akur
 
 | 📋 **Field** | 💡 **Deskripsi** | ⚙️ **Ketentuan** | 💭 **Contoh** |
 |--------------|------------------|-------------------|---------------|
-| **🎟️ Token Registrasi** | Kunci akses eksklusif dari administrator | Wajib - hubungi pengelola | `HERITAGE2024` |
+| **🎟️ Token Registrasi** | Kunci akses eksklusif dari editor | Wajib - hubungi pengelola | `HERITAGE2024` |
 | **📧 Email** | Alamat surel aktif untuk verifikasi | Format valid & dapat diakses | `budi.santoso@gmail.com` |
 | **👤 Username** | Identitas unik dalam sistem | Alfabet, maksimal 12 karakter | `budisantoso` |  
 | **🔐 Password** | Sandi keamanan pribadi | Minimal 8 karakter kombinasi | `Silsilah@2024` |
@@ -136,4 +136,4 @@ Jika ada yang membingungkan dalam menjelajahi beranda:
 
 **Prinsip: Dalam keluarga, kita saling mendukung dan berbagi pengetahuan! 🤗**
 
-*Terakhir diperbarui pada: Jumat, 25 Juni 2025*
+*Terakhir diperbarui pada: Kamis, 26 Juni 2025*

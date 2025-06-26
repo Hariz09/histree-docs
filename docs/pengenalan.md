@@ -26,9 +26,6 @@ Paman di Jakarta, bibi di Surabaya, kakek di kampung - semua bisa berkontribusi 
 ### 🎨 **Visualisasi yang Memukau**
 Lupakan diagram membosankan! Jelajahi pohon keluarga Anda dengan tampilan interaktif yang membuat setiap orang terpesona.
 
-### 📊 **Temukan Pola Menarik**
-Siapa sangka Anda bisa menemukan bahwa 70% keluarga Anda berdarah Jawa, atau bahwa profesi guru menurun turun-temurun?
-
 ---
 
 ## 💫 Siap Memulai Perjalanan Luar Biasa Ini?
@@ -48,3 +45,5 @@ Jangan biarkan sejarah keluarga Anda hanya menjadi kenangan yang memudar. Dengan
 ---
 
 *💡 **Tips:** Siapkan foto-foto keluarga favorit Anda sebelum memulai. Proses mengunggah akan menjadi lebih menyenangkan ketika Anda melihat wajah-wajah terkasih muncul di pohon keluarga digital Anda!*
+
+*Terakhir diperbarui pada: Kamis, 26 Juni 2025*
